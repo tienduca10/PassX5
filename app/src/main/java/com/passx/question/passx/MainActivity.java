@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(linearLayoutManager);
         ArrayList<DataPassX>  arrayList = new ArrayList<>();
         arrayList.add(new DataPassX(R.drawable.java1,"JAVA1"));
-        arrayList.add(new DataPassX(R.drawable.jav3,"JAVA1"));
+        arrayList.add(new DataPassX(R.drawable.jav3,"JAVA1srgs"));
         arrayList.add(new DataPassX(R.drawable.java4,"JAVA1"));
         arrayList.add(new DataPassX(R.drawable.java5,"JAVA1dsff"));
         arrayList.add(new DataPassX(R.drawable.java6,"JAVA1"));
